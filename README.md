@@ -2,7 +2,7 @@
 
 ## 📊 About Me
 - 🎓 Mathematics, Statistics, and Computer Science Graduate with a passion for data science & analytics 
-- 💡 Exploring real world mathematical applications, advanced mathematics(analysis and algebra), and statistical modeling 
+- 💡 Exploring real world mathematical applications, advanced mathematics, and statistical modeling 
 - 🔍 Currently learning/improving my SQL & real-world data science skills  
 - 📈 Interested in finance, AI, and open-source contributions 
 ## 🔥 Skills & Tools  
